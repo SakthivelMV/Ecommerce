@@ -1,0 +1,46 @@
+[{
+        "imageURL": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "name": "Fancy Product",
+        "price":"$80.00 - $180.00"
+    },
+    {
+        "imageURL": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "name": "Top Product",  
+        "price":"$40.00 - $80.00"
+
+    },
+    {
+        "imageURL": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "name": "Classy Product",
+        "price":"$70.00 - $80.00"
+   
+    },
+    {
+        "imageURL": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "name": "Best Product",
+        "price":"$60.00 - $80.00"
+   
+    },
+    {
+        "imageURL": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "name": "Super Product",
+        "price":"$70.00 - $100.00"
+   
+    },
+    {
+        "imageURL": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "name": "Classy Product",
+        "price":"$54.00 - $80.00"
+  
+    },
+    {
+        "imageURL": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "name": "Superb Product",
+        "price":"$80.00 - $200.00"
+    },
+    {
+        "imageURL": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "name": "Good Product",
+        "price":"$70.00 - $80.00"
+    }
+]
